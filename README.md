@@ -23,6 +23,3 @@ A Python tool to encrypt and decrypt messages using the Caesar Cipher method, wh
 - Encrypted: `KHOOR`
 - Decrypted: `HELLO`
 
-## Files Included
-- `caesar_cipher.py`: Main script.
-- `README.txt`: This file.
